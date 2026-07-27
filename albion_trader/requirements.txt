@@ -1,0 +1,4 @@
+PyQt6>=6.7
+requests>=2.32
+pandas>=2.2
+openpyxl>=3.1
